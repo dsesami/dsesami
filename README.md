@@ -1,8 +1,10 @@
 ### Hello!
 
-#### Currently working on: 
+#### Currently:
+- Test Engineering at Google.
+
+#### Previously
 - (mostly UI) automation with the [Ansible AWX](https://github.com/ansible/awx) project.
-- Teaching myself drawing. I'm following the surprisingly mechanical process at [Drawabox](https://drawabox.com/). It's been interesting to learn that drawing can improve in a mechanical manner with training, much in the same way a person's muscle coordination and technique improves with something like strength training.
 
 #### Likes: 
 - Language learning
