@@ -3,7 +3,7 @@
 #### Currently:
 - Test Engineering @ Google.
 
-#### Previously
+#### Previously:
 - (mostly UI) automation with the [Ansible AWX](https://github.com/ansible/awx) project.
 
 #### Likes: 
