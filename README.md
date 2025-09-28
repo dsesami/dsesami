@@ -1,8 +1,7 @@
 ### Hello!
 
 #### Currently:
-- Google Geo (Maps)
+- Google
 
 #### Previously:
-- Google Cloud
-- Ansible / AWX
+- Red Hat / Ansible
